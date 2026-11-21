@@ -1,0 +1,18 @@
+{
+  "botToken": "9274347073:AAGRPXvc9pO05Nb9lvNQT47qW-IcoM5V7HM",
+  "adminIds": [
+    6708512466
+  ],
+  "timezone": "Asia/Jakarta",
+  "dailyQuota": 10,
+  "getcontact": {
+    "baseUrl": "https://pbssrv-centralevents.com",
+    "countryCode": "id",
+    "androidOs": "android 9",
+    "appVersion": "8.4.0",
+    "lang": "en_US",
+    "clientDeviceId": "174680a6f1765b5f",
+    "hmacSecretKey": "31426764382a642f3a6665497235466f3d236d5d785b722b4c657457442a495b494524324866782a2364292478587a78662d7a7b7578593f71703e2b7e365762",
+    "credentials": []
+  }
+}
